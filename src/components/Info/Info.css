@@ -1,0 +1,35 @@
+.info_container {
+  display: flex;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: white;
+  width: 80%;
+  height: 325px;
+}
+
+.name {
+  text-decoration: underline;
+  text-decoration-color: #34a5da;
+}
+
+.person_detail {
+  list-style-type: none;
+  line-height: 25px;
+}
+.count {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.custom_indent {
+  margin-left: 65px;
+}
+
+.movie_list {
+  line-height: 25px;
+}

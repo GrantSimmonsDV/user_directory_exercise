@@ -1,0 +1,15 @@
+
+
+.site_header {
+  background-color: #34a5da;
+  height: 80px;
+}
+
+.nav_home {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 28px;
+  padding-left: 30px;
+  font-weight: bold;
+  font-size: large;
+}
