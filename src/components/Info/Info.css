@@ -13,6 +13,8 @@
 .name {
   text-decoration: underline;
   text-decoration-color: #34a5da;
+  margin-top: 0px;
+  margin-left: 40px;
 }
 
 .person_detail {
@@ -23,7 +25,8 @@
   display: flex;
   justify-content: flex-end;
   margin-right: 10px;
-  margin-top: 20px;
+  padding-top: 10px;
+  margin-bottom: 0px;
 }
 
 .custom_indent {
